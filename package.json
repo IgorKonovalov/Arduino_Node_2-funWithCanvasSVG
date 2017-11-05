@@ -1,0 +1,25 @@
+{
+  "name": "Arduino_Node_2-funWithCanvasSVG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorKonovalov/Arduino_Node_2-funWithCanvasSVG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorKonovalov/Arduino_Node_2-funWithCanvasSVG/issues"
+  },
+  "homepage": "https://github.com/IgorKonovalov/Arduino_Node_2-funWithCanvasSVG#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "serialport": "^6.0.4",
+    "socket.io": "^2.0.4"
+  }
+}
